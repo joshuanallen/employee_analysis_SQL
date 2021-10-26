@@ -1,0 +1,29 @@
+EMPNO,ENAME,LOGIN_ID,JOB,MGR,MNAME,HIREDATE,SAL,COMMISION,TEAM_NAME
+73694,"Stinson, Barney",4174,Clerk,75665,"Luthor, Alexander",7/30/01 00:00:00,40263,,Team B
+73694,"Stinson, Barney",,Clerk,75665,"Luthor, Alexander",7/30/01 00:00:00,40263,,Team B
+78766,"Hunt, Ethan",5102,Clerk,75665,"Luthor, Alexander",11/7/05 00:00:00,55361,,Team B
+78766,"Hunt, Ethan",,Clerk,75665,"Luthor, Alexander",11/7/05 00:00:00,55361,,Team B
+79003,"Bourne, Jason",5166,Clerk,75665,"Luthor, Alexander",11/7/05 00:00:00,47812,,Team C
+79003,"Bourne, Jason",,Clerk,75665,"Luthor, Alexander",11/7/05 00:00:00,47812,,Team C
+79348,"Barnes, Bucky",5293,Clerk,75665,"Luthor, Alexander",1/8/06 00:00:00,65427,,Team A
+79348,"Barnes, Bucky",,Clerk,75665,"Luthor, Alexander",1/8/06 00:00:00,65427,,Team A
+74992,"Lang, Lana",4524,SalesPerson,76984,"Wayne, Bruce",7/30/01 00:00:00,80526,16994,Team C
+74992,"Lang, Lana",00550000000ssw5AAA,SalesPerson,76984,"Wayne, Bruce",7/30/01 00:00:00,80526,16994,Team C
+75210,"Kent, Clark",4540,SalesPerson,76984,"Wayne, Bruce",7/1/03 00:00:00,62911,28323,Team C
+75210,"Kent, Clark",0055000000176uYAAQ,SalesPerson,76984,"Wayne, Bruce",7/1/03 00:00:00,62911,28323,Team C
+76546,"Ross, Pete",4814,SalesPerson,76984,"Wayne, Bruce",6/16/20 00:00:00,62911,23304,Team C
+76546,"Ross, Pete",00550000003kp63AAA,SalesPerson,76984,"Wayne, Bruce",6/16/20 00:00:00,62911,23304,Team C
+78449,"Rogers, Steve",5047,SalesPerson,77829,"Stark, Tony",8/12/10 00:00:00,75493,,Team C
+78449,"Rogers, Steve",00550000006rM4ZAAU,SalesPerson,77829,"Stark, Tony",8/12/10 00:00:00,75493,,Team C
+75665,"Luthor, Alexander",4789,Manager,78393,"Mosbey, Ted",7/1/03 00:00:00,149727,,Team B
+75665,"Luthor, Alexander",00550000003ko7jAAA,Manager,78393,"Mosbey, Ted",7/1/03 00:00:00,149727,,Team B
+76984,"Wayne, Bruce",4817,Manager,78393,"Mosbey, Ted",6/16/20 00:00:00,143436,,Team C
+76984,"Wayne, Bruce",00550000003kp8aAAA,Manager,78393,"Mosbey, Ted",6/16/20 00:00:00,143436,,Team C
+77829,"Stark, Tony",4860,Manager,78393,"Mosbey, Ted",9/21/03 00:00:00,123305,,Team A
+77829,"Stark, Tony",00550000003kp8jAAA,Manager,78393,"Mosbey, Ted",9/21/03 00:00:00,123305,,Team A
+77882,"Sullivan, Chloe",4896,Analyst,78393,"Mosbey, Ted",5/31/04 00:00:00,150986,,Team B
+77882,"Sullivan, Chloe",00550000005JDwqAAG,Analyst,78393,"Mosbey, Ted",5/31/04 00:00:00,150986,,Team B
+79029,"Van Dyne, Hope",5229,Analyst,78393,"Mosbey, Ted",1/8/06 00:00:00,150986,,Team B
+79029,"Van Dyne, Hope",0052J000008GXsyQAG,Analyst,78393,"Mosbey, Ted",1/8/06 00:00:00,150986,,Team B
+78393,"Mosbey, Ted",4970,President,,,8/12/10 00:00:00,251643,,Team A
+78393,"Mosbey, Ted",,President,,,8/12/10 00:00:00,251643,,Team A
